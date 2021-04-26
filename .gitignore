@@ -1,0 +1,8 @@
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+bin/
+lib/
+logs
+my_settings.py
